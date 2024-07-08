@@ -66,29 +66,29 @@ module.exports = {
     const replyMessage = `(☆^𝐁𝐎𝐓 〒 𝐎𝐖𝐍𝐄𝐑 𝐈𝐍𝐅𝐎^☆)
 
     
-✧ ʙᴏᴛ ɴᴀᴍᴇ: ${botName}
+✧ ʙᴏᴛ ɴᴀᴍᴇ: ${▶ ●────────亗}
 
-✧ ʙᴏᴛ ᴘʀᴇғɪx: ${botPrefix}
+✧ ʙᴏᴛ ᴘʀᴇғɪx: ${-}
 
-✧ ᴀᴜᴛʜᴏʀ ɴᴀᴍᴇ: ${authorName}
+✧ ᴀᴜᴛʜᴏʀ ɴᴀᴍᴇ: ${MR.TOUHID}
 
-✧ ғʙ ɪᴅ: ${authorFB}
+✧ ғʙ ɪᴅ: ${https://www.facebook.com/XmaskingNowpara?mibextid=ZbWKwL}
 
-✧ ɪɴsᴛᴀ: ${authorInsta}
+✧ ɪɴsᴛᴀ: ${Dimu nah ja}
 
-✧ ᴀᴜᴛʜᴏʀ ᴇᴍᴀɪʟ: ${authorEmail}
+✧ ᴀᴜᴛʜᴏʀ ᴇᴍᴀɪʟ: ${tui keda}
 
-✧ ᴀᴜᴛʜᴏʀ ɢɪᴛʜᴜʙ: ${authorGithub}
+✧ ᴀᴜᴛʜᴏʀ ɢɪᴛʜᴜʙ: ${Best vlogs}
 
 ✧ sᴛᴀᴛᴜs: ${status}
 
-✧ ᴅᴀᴛᴇ: ${date}
+✧ ᴅᴀᴛᴇ: ${03/11/2006}
 
 ✧ ᴛᴏᴛᴀʟ ᴛʜʀᴇᴀᴅs: ${allThreads.length}
 
 ✧ ᴛᴏᴛᴀʟ ᴜsᴇʀs: ${allUsers.length}
 
-✧ ᴛɪᴍᴇ: ${time}
+✧ ᴛɪᴍᴇ: ${Utime}
 
 ✧ ʙᴏᴛ ʀᴜɴɴɪɴɢ: ${uptimeString}
 
